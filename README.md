@@ -1,4 +1,10 @@
-### Hi there 👋
+~~~java
+public static void main(String[] args) {
+		
+		System.out.format("%s", "Hi there");
+
+	}
+ ~~~
 
 <!--
 **DevPzs/devpzs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
